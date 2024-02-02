@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\nemju\\OneDrive\\Desktop\\EOSTemplate\\EOSTemplate\\Source\\EOSTemplate\\EOSTemplate.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nemju\\OneDrive\\Desktop\\EOSTemplate\\EOSTemplate\\.vscode\\compileCommands_EOSTemplate\\EOSTemplate.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nemju\\OneDrive\\Desktop\\EOSTemplate\\EOSTemplate\\Source\\EOSTemplate\\EOSTemplate.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nemju\\OneDrive\\Desktop\\EOSTemplate\\EOSTemplate\\.vscode\\compileCommands_EOSTemplate\\EOSTemplate.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\nemju\\OneDrive\\Desktop\\EOSTemplate\\EOSTemplate\\Source\\EOSTemplate\\EOSTemplate.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\nemju\\OneDrive\\Desktop\\EOSTemplate\\EOSTemplate\\.vscode\\compileCommands_EOSTemplate\\EOSTemplate.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
